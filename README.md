@@ -1,7 +1,7 @@
 # Tetris
 
 
-It's just a simple university GUI project for which I use C++ and Qt.
+It's just a simple university GUI project created with C++ and Qt.
 
 
 
