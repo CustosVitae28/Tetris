@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/pics">
+        <file>Icon1.png</file>
+        <file>Wall.jpg</file>
+        <file>Wall1.jpg</file>
+        <file>Wall2.jpg</file>
+        <file>Wall4.gif</file>
+        <file>Capture1.JPG</file>
+        <file>Capture2.JPG</file>
+        <file>Capture3.JPG</file>
+        <file>Capture4.JPG</file>
+        <file>Icon2.jpg</file>
+        <file>AjSlaq.PNG</file>
+        <file>DzaxSlaq.PNG</file>
+        <file>Icon3.png</file>
+    </qresource>
+</RCC>
